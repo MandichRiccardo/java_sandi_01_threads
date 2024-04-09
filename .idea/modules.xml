@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java_sandi_01_threads.iml" filepath="$PROJECT_DIR$/java_sandi_01_threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_sandi_threads_01.iml" filepath="$PROJECT_DIR$/java_sandi_threads_01.iml" />
     </modules>
   </component>
 </project>
